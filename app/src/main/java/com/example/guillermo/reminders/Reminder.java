@@ -2,6 +2,7 @@ package com.example.guillermo.reminders;
 
 /**
  * Created by Guillermo on 21/10/2015.
+ * Prueba de commit
  */
 public class Reminder {
     private int mId;
